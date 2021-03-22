@@ -35,7 +35,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 There is no need to install anything, to view the E-commerce back end simply follow the link below. 
 
-See deployed site here: [Deployed site]() 
+See deployed site here: [Deployed site](https://e-commerce-back-end-jj.herokuapp.com/api/categories) 
 
 See repository here: [GitHub Repo](https://github.com/JD-Jaramillo/E-commerce-back-end)
 

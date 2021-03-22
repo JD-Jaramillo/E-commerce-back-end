@@ -45,7 +45,7 @@ router.post('/', (req, res) => {
   Product.create(req.body, {
     product_name: 'Marlins Baseball Hat',
     price: '$25.00',
-    stock: '5',
+    stock: 5,
     tagIds: [1, 2, 3, 4, 5]
   })
     .then((product) => {

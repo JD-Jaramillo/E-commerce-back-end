@@ -11,7 +11,7 @@ The back end for an E-commerce site, built using Express.js API, sequelize and M
 ## JS
 
 
-![Watch the video](./video/How-to-generate-readme.gif)
+![Watch the video](./video/.gif)
 
 Link to Full walkthrough video with narration: 
 
@@ -37,7 +37,7 @@ There is no need to install anything, to view the E-commerce back end simply fol
 
 See deployed site here: [Deployed site]() 
 
-See repository here: [GitHub Repo]()
+See repository here: [GitHub Repo](https://github.com/JD-Jaramillo/E-commerce-back-end)
 
 ## Contributing
 

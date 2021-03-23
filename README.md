@@ -21,6 +21,8 @@ How to GET routes for categories, products and Tags:
 ![Watch the video](./GIFs/GETroutes.gif)
 Get Routes for single product, tag or category: 
 ![Watch the video](./GIFs/GETroutesforSingles.gif)
+How to do a POST (create) for a product: 
+![Watch the video](./GIFs/POST.gif)
 How to do a PUT (update) for a product: 
 ![Watch the video](./GIFs/PUT.gif)
 How to do a DELETE (delete) for a product: 

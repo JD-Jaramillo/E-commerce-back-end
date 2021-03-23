@@ -9,13 +9,23 @@ The back end for an E-commerce site, built using Express.js API, sequelize and M
 * [Contributing](#Contributing)
 
 ## JS
+Wrote the back end for the E-commerce website using Node.js, Express, sequelize and mySQL. 
 
+How to create schema from mySQL: 
+![Watch the video](./GIFs/howtcreateschemafrommySQL.gif)
+How to seed from CLI: 
+![Watch the video](./GIFs/howtoseedfromCLI.gif)
+How to start app server: 
+![Watch the video](./GIFs/howtostartappserver.gif)
+How to GET routes for categories, products and Tags: 
+![Watch the video](./GIFs/GETroutes.gif)
+Get Routes for single product, tag or category: 
+![Watch the video](./GIFs/GETroutesforSingles.gif)
+How to do a PUT (update) for a product: 
+![Watch the video](./GIFs/PUT.gif)
+How to do a DELETE (delete) for a product: 
+![Watch the video](./GIFs/DELETE.gif)
 
-![Watch the video](./video/.gif)
-
-Link to Full walkthrough video with narration: 
-
-![JohnDJaramillo-E-Commerce-Back-End](./images/)
 
 ## Requirements
 
